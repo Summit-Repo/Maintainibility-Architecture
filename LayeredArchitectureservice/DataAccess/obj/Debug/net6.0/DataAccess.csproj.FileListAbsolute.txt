@@ -1,0 +1,14 @@
+E:\DBS\Dissertation\Sem3\CleanArchitectureExperiment\CleanArchitecture\LayeredArchitectureservice\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+E:\DBS\Dissertation\Sem3\CleanArchitectureExperiment\CleanArchitecture\LayeredArchitectureservice\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+E:\DBS\Dissertation\Sem3\CleanArchitectureExperiment\CleanArchitecture\LayeredArchitectureservice\DataAccess\bin\Debug\net6.0\DataAccess.dll
+E:\DBS\Dissertation\Sem3\CleanArchitectureExperiment\CleanArchitecture\LayeredArchitectureservice\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+E:\DBS\Dissertation\Sem3\CleanArchitectureExperiment\CleanArchitecture\LayeredArchitectureservice\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+E:\DBS\Dissertation\Sem3\CleanArchitectureExperiment\CleanArchitecture\LayeredArchitectureservice\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\DBS\Dissertation\Sem3\CleanArchitectureExperiment\CleanArchitecture\LayeredArchitectureservice\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+E:\DBS\Dissertation\Sem3\CleanArchitectureExperiment\CleanArchitecture\LayeredArchitectureservice\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+E:\DBS\Dissertation\Sem3\CleanArchitectureExperiment\CleanArchitecture\LayeredArchitectureservice\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\DBS\Dissertation\Sem3\CleanArchitectureExperiment\CleanArchitecture\LayeredArchitectureservice\DataAccess\obj\Debug\net6.0\DataAccess.dll
+E:\DBS\Dissertation\Sem3\CleanArchitectureExperiment\CleanArchitecture\LayeredArchitectureservice\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+E:\DBS\Dissertation\Sem3\CleanArchitectureExperiment\CleanArchitecture\LayeredArchitectureservice\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+E:\DBS\Dissertation\Sem3\CleanArchitectureExperiment\CleanArchitecture\LayeredArchitectureservice\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+E:\DBS\Dissertation\Sem3\CleanArchitectureExperiment\CleanArchitecture\LayeredArchitectureservice\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

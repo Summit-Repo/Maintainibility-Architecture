@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "artifactDbContext": "Data Source=DESKTOP-IUNHJ3G\\SQLEXPRESS;Initial Catalog=ArtifactDb;User ID=sumit;Password=123456"
+  }
+}

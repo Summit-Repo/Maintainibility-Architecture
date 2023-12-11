@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hFAEN43Ig5h8oBBWKHlpp4pCIy/23TLdETMAnrCGUF2vEtTTBCZJ/XSElUhGWNvw4l7q72RQn8celPvJUgmsyg==",
+  "success": true,
+  "projectFilePath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\CleanArchitectureService\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\91865\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

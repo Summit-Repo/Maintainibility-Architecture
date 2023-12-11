@@ -1,0 +1,15 @@
+E:\DBS\Dissertation\Sem3\CleanArchitectureExperiment\CleanArchitecture\LayeredArchitectureservice\Application\bin\Debug\net6.0\Application.deps.json
+E:\DBS\Dissertation\Sem3\CleanArchitectureExperiment\CleanArchitecture\LayeredArchitectureservice\Application\bin\Debug\net6.0\Application.dll
+E:\DBS\Dissertation\Sem3\CleanArchitectureExperiment\CleanArchitecture\LayeredArchitectureservice\Application\bin\Debug\net6.0\Application.pdb
+E:\DBS\Dissertation\Sem3\CleanArchitectureExperiment\CleanArchitecture\LayeredArchitectureservice\Application\bin\Debug\net6.0\DataAccess.dll
+E:\DBS\Dissertation\Sem3\CleanArchitectureExperiment\CleanArchitecture\LayeredArchitectureservice\Application\bin\Debug\net6.0\DataAccess.pdb
+E:\DBS\Dissertation\Sem3\CleanArchitectureExperiment\CleanArchitecture\LayeredArchitectureservice\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+E:\DBS\Dissertation\Sem3\CleanArchitectureExperiment\CleanArchitecture\LayeredArchitectureservice\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\DBS\Dissertation\Sem3\CleanArchitectureExperiment\CleanArchitecture\LayeredArchitectureservice\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+E:\DBS\Dissertation\Sem3\CleanArchitectureExperiment\CleanArchitecture\LayeredArchitectureservice\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+E:\DBS\Dissertation\Sem3\CleanArchitectureExperiment\CleanArchitecture\LayeredArchitectureservice\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+E:\DBS\Dissertation\Sem3\CleanArchitectureExperiment\CleanArchitecture\LayeredArchitectureservice\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+E:\DBS\Dissertation\Sem3\CleanArchitectureExperiment\CleanArchitecture\LayeredArchitectureservice\Application\obj\Debug\net6.0\Application.dll
+E:\DBS\Dissertation\Sem3\CleanArchitectureExperiment\CleanArchitecture\LayeredArchitectureservice\Application\obj\Debug\net6.0\refint\Application.dll
+E:\DBS\Dissertation\Sem3\CleanArchitectureExperiment\CleanArchitecture\LayeredArchitectureservice\Application\obj\Debug\net6.0\Application.pdb
+E:\DBS\Dissertation\Sem3\CleanArchitectureExperiment\CleanArchitecture\LayeredArchitectureservice\Application\obj\Debug\net6.0\ref\Application.dll
