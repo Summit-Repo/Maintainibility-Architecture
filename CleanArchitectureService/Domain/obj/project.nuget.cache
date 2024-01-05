@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eqsZ+lx6sfukig/JM8euNW4KpPdWlcaG9ZNZ+5E5X1GQPpl2x0KkPgpiu7PfX7k9++WK+v7ci6hNTSB7vrK0ew==",
+  "dgSpecHash": "ac89jC0bJT5onkjeXm2v2JTuaGdSAGAliZIMx6QUvD5d2/scDo5nSnGmU6otGNcpKLt0BTFtiJ330oK9HLM1SQ==",
   "success": true,
-  "projectFilePath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\CleanArchitectureService\\Domain\\Domain.csproj",
+  "projectFilePath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\CleanArchitectureService\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

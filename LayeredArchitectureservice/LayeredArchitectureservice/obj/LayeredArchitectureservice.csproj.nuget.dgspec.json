@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\LayeredArchitectureservice\\LayeredArchitectureservice\\LayeredArchitectureservice.csproj": {}
+    "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\LayeredArchitectureservice\\LayeredArchitectureservice\\LayeredArchitectureservice.csproj": {}
   },
   "projects": {
-    "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\LayeredArchitectureservice\\Application\\Application.csproj": {
+    "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\LayeredArchitectureservice\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\LayeredArchitectureservice\\Application\\Application.csproj",
+        "projectUniqueName": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\LayeredArchitectureservice\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\LayeredArchitectureservice\\Application\\Application.csproj",
+        "projectPath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\LayeredArchitectureservice\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\91865\\.nuget\\packages\\",
-        "outputPath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\LayeredArchitectureservice\\Application\\obj\\",
+        "outputPath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\LayeredArchitectureservice\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\91865\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\LayeredArchitectureservice\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\LayeredArchitectureservice\\DataAccess\\DataAccess.csproj"
+              "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\LayeredArchitectureservice\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\LayeredArchitectureservice\\DataAccess\\DataAccess.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\LayeredArchitectureservice\\DataAccess\\DataAccess.csproj": {
+    "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\LayeredArchitectureservice\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\LayeredArchitectureservice\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\LayeredArchitectureservice\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\LayeredArchitectureservice\\DataAccess\\DataAccess.csproj",
+        "projectPath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\LayeredArchitectureservice\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\91865\\.nuget\\packages\\",
-        "outputPath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\LayeredArchitectureservice\\DataAccess\\obj\\",
+        "outputPath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\LayeredArchitectureservice\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\91865\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -140,14 +140,14 @@
         }
       }
     },
-    "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\LayeredArchitectureservice\\LayeredArchitectureservice\\LayeredArchitectureservice.csproj": {
+    "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\LayeredArchitectureservice\\LayeredArchitectureservice\\LayeredArchitectureservice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\LayeredArchitectureservice\\LayeredArchitectureservice\\LayeredArchitectureservice.csproj",
+        "projectUniqueName": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\LayeredArchitectureservice\\LayeredArchitectureservice\\LayeredArchitectureservice.csproj",
         "projectName": "LayeredArchitectureservice",
-        "projectPath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\LayeredArchitectureservice\\LayeredArchitectureservice\\LayeredArchitectureservice.csproj",
+        "projectPath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\LayeredArchitectureservice\\LayeredArchitectureservice\\LayeredArchitectureservice.csproj",
         "packagesPath": "C:\\Users\\91865\\.nuget\\packages\\",
-        "outputPath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\LayeredArchitectureservice\\LayeredArchitectureservice\\obj\\",
+        "outputPath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\LayeredArchitectureservice\\LayeredArchitectureservice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\91865\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -164,11 +164,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\LayeredArchitectureservice\\Application\\Application.csproj": {
-                "projectPath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\LayeredArchitectureservice\\Application\\Application.csproj"
+              "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\LayeredArchitectureservice\\Application\\Application.csproj": {
+                "projectPath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\LayeredArchitectureservice\\Application\\Application.csproj"
               },
-              "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\LayeredArchitectureservice\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\LayeredArchitectureservice\\DataAccess\\DataAccess.csproj"
+              "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\LayeredArchitectureservice\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\LayeredArchitectureservice\\DataAccess\\DataAccess.csproj"
               }
             }
           }

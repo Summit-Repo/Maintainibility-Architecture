@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PAyAzUdJeAFP1j0mn8k8YpJ51V4mdL1oGeIj/pCph3f5jCOZiETXPL88GWV9Ef4fQbdIw4zmrZa+TEAjRtOSRg==",
+  "dgSpecHash": "oaPGKahgCX6cb5Av8azNdZZvba5roDPHriUVk1LqLTPGCgQ07r3sbx/OepnBWaMf/9fqjmqZVhVoHs+7nmOtbg==",
   "success": true,
-  "projectFilePath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\CleanArchitectureService\\CleanArchitectureService\\CleanArchitectureService.csproj",
+  "projectFilePath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\CleanArchitectureService\\CleanArchitectureService\\CleanArchitectureService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\91865\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\91865\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

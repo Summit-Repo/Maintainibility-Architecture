@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vM3Z7uKTPKkMitMH4r+CpfGbojFGoeIRatQGuAuYMDl45yXvf505WLyR3wRfq70ARHYsw98MJbWv9UWGAqEeaA==",
+  "dgSpecHash": "+z9lWV8mEVwh6gAoAq1bJ1p5PRzNTT+mOjtSG7SDers6MozlcGtBdBeUKPCqj9ghSX29xS6Wq4bXcfFZd2ek5A==",
   "success": true,
-  "projectFilePath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\LayeredArchitectureservice\\Application\\Application.csproj",
+  "projectFilePath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\LayeredArchitectureservice\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\91865\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\91865\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

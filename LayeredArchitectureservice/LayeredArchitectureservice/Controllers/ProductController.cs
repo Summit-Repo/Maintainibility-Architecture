@@ -32,10 +32,10 @@ namespace LayeredArchitectureservice.Controllers
             return Ok(new { Status = status });
         }
 
-        [HttpPut("{productId}")]
-        public IActionResult UpdateProduct(int productId, [FromBody] ProductDto productUpdateDto)
+        [HttpPut]
+        public IActionResult UpdateProduct([FromBody] ProductDto productUpdateDto)
         {
-            var existingProduct = _productOperationRule.GetProductById(productId);
+            var existingProduct = _productOperationRule.GetProductById(productUpdateDto.ProductId);
 
             if (existingProduct == null) return NotFound(new { Status = "Product not found." });
 

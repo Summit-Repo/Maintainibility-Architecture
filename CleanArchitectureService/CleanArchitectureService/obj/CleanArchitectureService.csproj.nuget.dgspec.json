@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\CleanArchitectureService\\CleanArchitectureService\\CleanArchitectureService.csproj": {}
+    "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\CleanArchitectureService\\CleanArchitectureService\\CleanArchitectureService.csproj": {}
   },
   "projects": {
-    "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\CleanArchitectureService\\Application\\Application.csproj": {
+    "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\CleanArchitectureService\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\CleanArchitectureService\\Application\\Application.csproj",
+        "projectUniqueName": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\CleanArchitectureService\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\CleanArchitectureService\\Application\\Application.csproj",
+        "projectPath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\CleanArchitectureService\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\91865\\.nuget\\packages\\",
-        "outputPath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\CleanArchitectureService\\Application\\obj\\",
+        "outputPath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\CleanArchitectureService\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\91865\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\CleanArchitectureService\\Domain\\Domain.csproj": {
-                "projectPath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\CleanArchitectureService\\Domain\\Domain.csproj"
+              "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\CleanArchitectureService\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\CleanArchitectureService\\Domain\\Domain.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\CleanArchitectureService\\CleanArchitectureService\\CleanArchitectureService.csproj": {
+    "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\CleanArchitectureService\\CleanArchitectureService\\CleanArchitectureService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\CleanArchitectureService\\CleanArchitectureService\\CleanArchitectureService.csproj",
+        "projectUniqueName": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\CleanArchitectureService\\CleanArchitectureService\\CleanArchitectureService.csproj",
         "projectName": "CleanArchitectureService",
-        "projectPath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\CleanArchitectureService\\CleanArchitectureService\\CleanArchitectureService.csproj",
+        "projectPath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\CleanArchitectureService\\CleanArchitectureService\\CleanArchitectureService.csproj",
         "packagesPath": "C:\\Users\\91865\\.nuget\\packages\\",
-        "outputPath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\CleanArchitectureService\\CleanArchitectureService\\obj\\",
+        "outputPath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\CleanArchitectureService\\CleanArchitectureService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\91865\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -93,11 +93,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\CleanArchitectureService\\Application\\Application.csproj": {
-                "projectPath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\CleanArchitectureService\\Application\\Application.csproj"
+              "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\CleanArchitectureService\\Application\\Application.csproj": {
+                "projectPath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\CleanArchitectureService\\Application\\Application.csproj"
               },
-              "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\CleanArchitectureService\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\CleanArchitectureService\\Infrastructure\\Infrastructure.csproj"
+              "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\CleanArchitectureService\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\CleanArchitectureService\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -150,14 +150,14 @@
         }
       }
     },
-    "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\CleanArchitectureService\\Domain\\Domain.csproj": {
+    "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\CleanArchitectureService\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\CleanArchitectureService\\Domain\\Domain.csproj",
+        "projectUniqueName": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\CleanArchitectureService\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\CleanArchitectureService\\Domain\\Domain.csproj",
+        "projectPath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\CleanArchitectureService\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\91865\\.nuget\\packages\\",
-        "outputPath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\CleanArchitectureService\\Domain\\obj\\",
+        "outputPath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\CleanArchitectureService\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\91865\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -205,14 +205,14 @@
         }
       }
     },
-    "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\CleanArchitectureService\\Infrastructure\\Infrastructure.csproj": {
+    "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\CleanArchitectureService\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\CleanArchitectureService\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\CleanArchitectureService\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\CleanArchitectureService\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\CleanArchitectureService\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\91865\\.nuget\\packages\\",
-        "outputPath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\CleanArchitectureService\\Infrastructure\\obj\\",
+        "outputPath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\CleanArchitectureService\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\91865\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -229,8 +229,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\CleanArchitectureService\\Domain\\Domain.csproj": {
-                "projectPath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\CleanArchitectureService\\Domain\\Domain.csproj"
+              "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\CleanArchitectureService\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\CleanArchitectureService\\Domain\\Domain.csproj"
               }
             }
           }

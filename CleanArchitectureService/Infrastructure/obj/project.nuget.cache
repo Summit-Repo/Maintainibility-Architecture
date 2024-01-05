@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cQrfEIyfXNR/T1reIdbcho9qnc4j6vGy/L1BY2EcKO96zYPp0hlgLGV76Y2AbXd8S3hq/5dWiTkyCrGNOFgqGA==",
+  "dgSpecHash": "UMr7SpeOKK2CV1GmaeCLnQlfJfdXyHlJZkjFb2So6se+agv9V5FAskD24G48ZR4dx6SWJSptywxQd94+pQO5JA==",
   "success": true,
-  "projectFilePath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\CleanArchitectureService\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\CleanArchitectureService\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\91865\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\91865\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

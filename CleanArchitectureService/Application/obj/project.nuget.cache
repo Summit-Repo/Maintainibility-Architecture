@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hFAEN43Ig5h8oBBWKHlpp4pCIy/23TLdETMAnrCGUF2vEtTTBCZJ/XSElUhGWNvw4l7q72RQn8celPvJUgmsyg==",
+  "dgSpecHash": "MSuQhXDBmkRZ9B3F8xfic2/aq8w5iQeTP3x/x/ZymDbhf4HOTErvB/otKKcVLQ6VFBZ8A6+MRjiaBGWy9jxc7w==",
   "success": true,
-  "projectFilePath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\CleanArchitectureService\\Application\\Application.csproj",
+  "projectFilePath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\CleanArchitectureService\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\91865\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
   ],

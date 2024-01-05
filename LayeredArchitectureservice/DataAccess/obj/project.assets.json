@@ -2014,11 +2014,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\LayeredArchitectureservice\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\LayeredArchitectureservice\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\LayeredArchitectureservice\\DataAccess\\DataAccess.csproj",
+      "projectPath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\LayeredArchitectureservice\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\91865\\.nuget\\packages\\",
-      "outputPath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\LayeredArchitectureservice\\DataAccess\\obj\\",
+      "outputPath": "E:\\DBS\\Dissertation\\Sem3\\CleanArchitectureExperiment\\CleanArchitecture\\Maintainibility-Architecture\\LayeredArchitectureservice\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\91865\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -12,10 +12,12 @@ namespace Application
     public class ProductOperationRule
     {
         private readonly ProductRepository _productRepository;
+        private readonly AdoProductRepository _adoProductRepository;
 
         public ProductOperationRule(IConfiguration configuration)
         {
             _productRepository = new ProductRepository(configuration);
+            _adoProductRepository = new AdoProductRepository(configuration);
         }
 
         public string AddProductRule(Product product)
@@ -81,8 +83,10 @@ namespace Application
         public IEnumerable<Product> GetAllProducts()
         {
 
-            return _productRepository.GetAllProducts();
+            //return _productRepository.GetAllProducts();
+            return _adoProductRepository.GetAllProducts();
         }
+
     }
 
 }

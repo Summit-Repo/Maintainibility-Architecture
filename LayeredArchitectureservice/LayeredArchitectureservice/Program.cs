@@ -1,4 +1,5 @@
 using DataAccess;
+using DataAccess.Repository;
 using Microsoft.EntityFrameworkCore;
 
 
@@ -16,6 +17,7 @@ builder.Services.AddDbContext<Context>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("artifactDbContext"));
 });
+
 
 var Configuration = builder.Configuration;
 
