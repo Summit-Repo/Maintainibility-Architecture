@@ -59,11 +59,11 @@ namespace Application.BusinessRule
             if (productId >= 0)
             {
                 _productRepository.DeleteProduct(productId);
-                status = "User removed successfully.";
+                status = "Product removed successfully.";
             }
             else
             {
-                status = "UserId cannot be smaller or equal to 0";
+                status = "ProductId cannot be smaller or equal to 0";
             }
             return status;
         }

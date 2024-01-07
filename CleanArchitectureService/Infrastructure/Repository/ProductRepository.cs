@@ -41,10 +41,10 @@ namespace Infrastructure.Repository
 
         public void DeleteProduct(int productId)
         {
-            var product = _context.Users.Find(productId);
+            var product = _context.Products.Find(productId);
             if (product != null)
             {
-                _context.Users.Remove(product);
+                _context.Products.Remove(product);
                 _context.SaveChanges();
             }
         }

@@ -12,12 +12,12 @@ namespace Application
     public class ProductOperationRule
     {
         private readonly ProductRepository _productRepository;
-        private readonly AdoProductRepository _adoProductRepository;
+        //private readonly AdoProductRepository _adoProductRepository;
 
         public ProductOperationRule(IConfiguration configuration)
         {
             _productRepository = new ProductRepository(configuration);
-            _adoProductRepository = new AdoProductRepository(configuration);
+            //_adoProductRepository = new AdoProductRepository(configuration);
         }
 
         public string AddProductRule(Product product)
@@ -61,11 +61,11 @@ namespace Application
             if (productId >= 0)
             {
                 _productRepository.DeleteProduct(productId);
-                status = "User removed successfully.";
+                status = "Product removed successfully.";
             }
             else
             {
-                status = "UserId cannot be smaller or equal to 0";
+                status = "ProductId cannot be smaller or equal to 0";
             }
             return status;
         }
@@ -82,9 +82,8 @@ namespace Application
 
         public IEnumerable<Product> GetAllProducts()
         {
-
-            //return _productRepository.GetAllProducts();
-            return _adoProductRepository.GetAllProducts();
+            return _productRepository.GetAllProducts();
+            //return _adoProductRepository.GetAllProducts();
         }
 
     }
